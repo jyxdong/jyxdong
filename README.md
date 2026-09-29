@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ginny 👋
 
-<!--
-**jyxdong/jyxdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Tufts University, **BFA** in Digital Media and **BS** in Human Factors Psychology, CS minor
 
-Here are some ideas to get you started:
+🎨 Product / UX Designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me
+
+I'm a product designer with a background in human factors psychology and digital media. I like to start from research and usability testing, then turn what I learn into clear user flows and consistent design systems.
+
+Recently, I designed the organizer and viewer experience for Remember, an AI-powered memorial platform, and validated its contributor flow through 15 usability tests. At UPM, I built a design system for merchant-facing paper product assets. I'm also a UX researcher at the Tufts IDEA Lab, working on Digital Oasis, a secure document storage platform for displaced communities.
+
+## Skills
+
+UX Design: User Research, Usability Testing, Wireframing, Prototyping, User Flows, Information Architecture, Design Systems, Visual Design
+
+Design Tools: Figma, Adobe Illustrator, Photoshop, InDesign
+
+Technical: HTML, CSS, JavaScript, C++
